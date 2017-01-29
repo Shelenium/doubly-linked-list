@@ -1,5 +1,8 @@
 const Node = require('./node');
 
+
+// Shelenium elena.shokan@gmail.com
+
 class LinkedList {
 
     constructor(data,prev,next) {
